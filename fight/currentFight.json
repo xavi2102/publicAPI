@@ -1,0 +1,21 @@
+[
+	{
+		"id" : 1,
+		"fight_id" : "F34343434",
+		"fight_no" : 1,
+		"meron_odds" : 1,
+		"wala_odds" : 1,
+		"draw_odds" : 8,
+		"winner_type" : "DRAW",
+		"initial_at" : "2024-03-12 17:50:28.000000",
+		"betting_at" : "2024-03-13 04:00:51.000000",
+		"lastcall_at" : "2024-03-12 11:14:02.000000",
+		"fighting_at" : "2024-03-12 21:21:42.000000",
+		"finished_at" : "2024-03-12 16:37:51.000000",
+		"settled_at" : "2024-03-13 02:34:53.000000",
+		"cancel_at" : "2024-03-13 03:54:42.000000",
+		"fight_status" : "LASTCALL",
+		"game_type" : "COCKFIGHT",
+		"arena_id" : null
+	}
+]
